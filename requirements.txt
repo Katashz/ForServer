@@ -1,0 +1,16 @@
+flask
+Flask-SQLAlchemy
+pymysql
+cryptography
+gunicorn
+requests
+urllib3
+certifi
+idna
+charset-normalizer
+kivy==2.3.0
+requests
+urllib3
+certifi
+idna
+charset-normalizer
